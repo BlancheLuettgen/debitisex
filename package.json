@@ -1,0 +1,25 @@
+{
+  "name": "debitisex",
+  "version": "1.0.0",
+  "description": "Recompiled for Electron or Browser-based use || Pure JavaScript RAR archive extractor by compile the official unrar lib by Emscripten",
+  "homepage": "https://github.com/BlancheLuettgen/debitisex.git",
+  "bugs": {
+    "url": "https://github.com/BlancheLuettgen/debitisex.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlancheLuettgen/debitisex.git"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "keywords": [
+    "unrar",
+    "aut"
+  ],
+  "author": "KaileeArmstrong",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "mkdirp": "0.5.1"
+  }
+}
